@@ -73,12 +73,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FARZINzx/TodoApp.git"
+    "url": "git+https://github.com/shantibhushan99/TodoApp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FARZINzx/TodoApp/issues"
+    "url": "https://github.com/shantibhushan99/TodoApp/issues"
   }
 }
